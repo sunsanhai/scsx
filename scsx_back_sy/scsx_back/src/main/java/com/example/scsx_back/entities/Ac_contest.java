@@ -4,8 +4,6 @@ package com.example.scsx_back.entities;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import org.apache.logging.log4j.message.AsynchronouslyFormattable;
-
 import java.sql.Timestamp;
 
 @Data

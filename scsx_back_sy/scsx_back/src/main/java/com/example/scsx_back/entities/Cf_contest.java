@@ -15,8 +15,8 @@ public class Cf_contest {
     private String name;//name
     private String type;//type
     private int level;
-    private Long startTimeStamp;
-    private Long endTimeStamp;
+    private Long start_time_stamp;
+    private Long end_time_stamp;
     private int duration;
     private int is_normal;
     private int participate;
